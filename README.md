@@ -17,4 +17,5 @@ The course aims to provide an understanding of analyzing algorithms and their co
 # Topics:
 
 ## [Prelims]
+[Prelims](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010)
   
