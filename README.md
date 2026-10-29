@@ -17,6 +17,9 @@ The course aims to provide an understanding of analyzing algorithms and their co
 # Topics:
 
 ### 1. Prelims
+| Period | Main File |
+| :--- | :--- |
+| Prelims Main File | [Prelims](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming) |
 
 | # | Category | Activity Name | Link |
 | :--- | :--- | :--- | :--- |
@@ -30,6 +33,10 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 ### 2. Midterms
 
+| Period | Main File |
+| :--- | :--- |
+| Midterms Main File | [Midterms](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010) |
+
 | # | Category | Activity Name | Link |
 | :--- | :--- | :--- | :--- |
 | **2.1** | Assignment | **Assignment 6.1:** Linear and Binary Search | [ASGMT 6.1](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010/Assignment%206.1%20Linear%20and%20Binary%20Search) |
@@ -42,6 +49,10 @@ The course aims to provide an understanding of analyzing algorithms and their co
 | **2.8** | Seatwork | **Seatwork 10.1:** Graph | [SW 10.1](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010/Seatwork%2010.1%20-%20Graph) |
 
 ### 3. Finals
+
+| Period | Main File |
+| :--- | :--- |
+| Finals Main File | [Finals](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010) |
 
 | # | Category | Activity Name | Link |
 | :--- | :--- | :--- | :--- |
