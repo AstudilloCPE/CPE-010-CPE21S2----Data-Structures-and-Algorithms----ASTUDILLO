@@ -16,12 +16,8 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 # Topics:
 
-## [Prelims]
-[Prelim Main Folder](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010)
-
-## [Midterms]
-[Midterm Main Folder](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010)
-
-## [Finals]
-[Finals Main Folder](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010)
-  
+| Term | Folder Link | Focus Topics |
+| :--- | :--- | :--- |
+| **Prelims** | [Prelim Main Folder](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010) | Complexity Analysis, Abstract Data Types |
+| **Midterms** | [Midterm Main Folder](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010) | Linked Lists, Stacks, Queues |
+| **Finals** | [Finals Main Folder](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010) | Trees and Graphs |
