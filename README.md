@@ -18,7 +18,7 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 ### 1. Prelims
 
-| # | Category | Topic / Activity Name | Link |
+| # | Category | Activity Name | Link |
 | :--- | :--- | :--- | :--- |
 | **1.1** | Hands-on Activity | **Hands-on Activity 1.1:** Basic C++ Programming | [HoA 1.1](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming) |
 | **1.2** | Seatwork | **Seatwork 1.1:** Algorithm, Flowchart, Pseudocode | [SW 1.1](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010/Seatwork%201.1%20Algorithm%2C%20Flowchart%2C%20Pseudocode) |
@@ -30,7 +30,7 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 ### 2. Midterms
 
-| # | Category | Topic / Activity Name | Link |
+| # | Category | Activity Name | Link |
 | :--- | :--- | :--- | :--- |
 | **2.1** | Assignment | **Assignment 6.1:** Linear and Binary Search | [ASGMT 6.1](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010/Assignment%206.1%20Linear%20and%20Binary%20Search) |
 | **2.2** | Hands-on Activity | **Hands-on Activity 6.1:** Searching Techniques | [HoA 6.1](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010/Hands-on%20Activity%206.1%20Searching%20Techniques) |
@@ -43,7 +43,7 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 ### 3. Finals
 
-| # | Category | Topic / Activity Name | Link |
+| # | Category | Activity Name | Link |
 | :--- | :--- | :--- | :--- |
 | **3.1** | Hands-on Activity | **Hands-on Activity 11.1:** Basic Algorithm Analysis | [HoA 11.1](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis) |
 | **3.2** | Hands-on Activity | **Hands-on Activity 12.1:** Algorithmic Strategies | [HoA 12.1](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies) |
