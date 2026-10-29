@@ -40,3 +40,13 @@ The course aims to provide an understanding of analyzing algorithms and their co
 | **2.6** | Seatwork | **Seatwork 9.1:** Implementing Trees | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010/Seatwork%209.1%20Implementing%20Trees) |
 | **2.7** | Hands-on Activity | **Hands-on Activity 10.1:** Graphs | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010/Hands-on%20Activity%2010.1%20Graphs) |
 | **2.8** | Seatwork | **Seatwork 10.1:** Graph | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010/Seatwork%2010.1%20-%20Graph) |
+
+### 3. Finals
+
+| # | Category | Topic / Activity Name | Link |
+| :--- | :--- | :--- | :--- |
+| **3.1** | Hands-on Activity | **Hands-on Activity 11.1:** Basic Algorithm Analysis | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis) |
+| **3.2** | Hands-on Activity | **Hands-on Activity 12.1:** Algorithmic Strategies | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies) |
+| **3.3** | Hands-on Activity | **Hands-on Activity 13.1:** Parallel Algorithms and Multithreading | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading) |
+| **3.4** | Hands-on Activity | **Hands-on Activity 14.1:** Algorithm Complexity | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010/Hands-on%20Activity%2014.1%20Algorithm%20Complexity) |
+| **3.5** | Laboratory Exam | **Prelim Laboratory Exam Set D** | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010/Prelim%20Laboratory%20Exam%20Set%20D) |
