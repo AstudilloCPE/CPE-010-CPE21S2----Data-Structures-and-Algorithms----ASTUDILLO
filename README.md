@@ -16,8 +16,14 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 # Topics:
 
-| Term | Folder Link | Focus Topics |
-| :--- | :--- | :--- |
-| **Prelims** | [Prelim Main Folder](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010) | Complexity Analysis, Abstract Data Types |
-| **Midterms** | [Midterm Main Folder](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/MIDTERMS%20-%20CPE010) | Linked Lists, Stacks, Queues |
-| **Finals** | [Finals Main Folder](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/FINALS%20-%20CPE010) | Trees and Graphs |
+### 1. Prelims
+
+| # | Category | Topic / Activity Name | Link |
+| :--- | :--- | :--- | :--- |
+| **1** | Hands-on Activity | **Hands-on Activity 1.1:** Basic C++ Programming | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming) |
+| **2** | Seatwork | **Seatwork 1.1:** Algorithm, Flowchart, Pseudocode | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010/Seatwork%201.1%20Algorithm%2C%20Flowchart%2C%20Pseudocode) |
+| **3** | Hands-on Activity | **Hands-on Activity 2.1:** Arrays, Pointers, and Dynamic Memory Allocation | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010/Hands-on%20Activity%202.1%20Arrays%2C%20Pointers%20and%20Dynamic%20Memory%20Allocation) |
+| **4** | Hands-on Activity | **Hands-on Activity 3.1:** Linked Lists | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010/Hands-on%20Activity%203.1%20Linked%20Lists) |
+| **5** | Seatwork | **Seatwork 3.1:** Creating a Singly Linked List | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010/Seatwork%203.1%3A%20Creating%20a%20Singly%20Linked%20List) |
+| **6** | Seatwork | **Seatwork 4.1:** Array-Based vs. STL Stack Implementations | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010/Seatwork%204.1%3A%20Array-Based%20vs.%20STL%20Stack%20Implementations) |
+| **7** | Hands-on Activity | **Hands-on Activity 5.1:** Queues | [View Activity](https://github.com/AstudilloCPE/CPE-010-CPE21S2----Data-Structures-and-Algorithms----ASTUDILLO/tree/main/PRELIM%20-%20CPE010/Hands-on%20Activity%205.1%20Queues) |
